@@ -13,7 +13,7 @@ export const placesSeedData = [
     },
     {
         Country: ,
-        City: ,
+        Cities: ,
         DateVisited,
         AnythingWeWant: ,
     }
