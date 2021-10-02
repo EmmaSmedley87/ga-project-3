@@ -2,19 +2,25 @@ export const placesSeedData = [
     {
         Country: ,
         City: ,
-        DateVisitedc
+        DateVisited:
+        Rating:
+        Trip Highlights:
         AnythingWeWant: ,
     },
     {
         Country: ,
         City: ,
         DateVisited,
+        Rating:
+        Trip Highlights:
         AnythingWeWant: ,
     },
     {
         Country: ,
-        Cities: ,
+        City: ,
         DateVisited,
+        Rating:
+        Trip Highlights:
         AnythingWeWant: ,
     }
 ]
